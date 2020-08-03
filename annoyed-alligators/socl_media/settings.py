@@ -40,7 +40,7 @@ ALLOWED_HOSTS = []
 
 INSTALLED_APPS = [
     # Own Apps
-
+    'socl_media.apps.users',
     # Third-Party Apps
 
     # Django default Apps
